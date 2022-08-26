@@ -1,0 +1,146 @@
+@media only screen and (max-width: 968px) {
+
+/********* CAROUSEL **********/
+.carousel-inner #shared-media h3 {
+    font-size: 20px;
+}
+
+.carousel-inner #shared-media p {
+    font-size: 12px;
+}
+
+.carousel-inner #instant-headless {
+    left: 10%;
+    top: 12%;
+}
+
+.carousel-inner #instant-headless h3 {
+	font-size: 30px;
+}
+
+.carousel-inner #instant-headless p {
+	font-size: 11px;
+}
+
+.carousel-inner #security-scale {
+    left: 23%;
+    right: 58%;
+    top: 6%;
+}
+
+.carousel-inner #security-scale h3 {
+    font-size: 25px;
+}
+
+.carousel-inner #reporting {
+    top: 25%;
+}
+
+}
+
+@media only screen and (max-width: 768px) {
+
+/********* CAROUSEL **********/
+.carousel-inner #relational-content {
+    left: 12%;
+}
+
+.carousel-inner #shared-media h3 {
+    font-size: 15px;
+}
+
+.carousel-inner #shared-media p {
+    font-size: 8px;
+}
+
+.carousel-inner #web-engine h3 {
+    font-size: 50px;
+}
+
+.carousel-inner #web-engine p {
+    font-size: 17px;
+}
+
+.carousel-inner #parsely {
+    bottom: 80px;
+}
+
+.carousel-inner #instant-headless {
+    top: 29%;
+}
+
+.carousel-inner #instant-headless h3 {
+    font-size: 16px;
+}
+
+.carousel-inner #instant-headless p {
+    font-size: 9px;
+}
+
+.carousel-inner #security-scale {
+	left: 26%;
+    right: 60%;
+    top: 13%;
+}
+
+.carousel-inner #security-scale h3 {
+    font-size: 19px;
+}
+
+.carousel-inner #security-scale p {
+    font-size: 8px;
+}
+
+}
+
+@media only screen and (max-width: 600px) {
+
+/********* CAROUSEL **********/
+.carousel-inner h3 {
+    font-size: 30px;
+}
+
+.carousel-inner #web-engine {
+    left: 13%;
+    right: 60%;
+    top: 32%;
+}
+
+.carousel-inner #reporting {
+    top: 26%;
+	left: 67%;
+}
+
+.carousel-inner h3 {
+    font-size: 25px;
+}
+
+.carousel-inner p {
+	font-size: 12px;
+}
+
+}
+
+@media only screen and (max-width: 500px) {
+
+/********* CAROUSEL **********/
+.carousel-inner .carousel-caption {
+	right: 15% !important;
+	left: 15% !important;
+	top: auto !important;
+    color: white !important;
+    text-align: center !important;
+    background: #000000c4;
+    bottom: 40% !important;
+    border-radius: 5px;
+}
+
+.carousel-inner h3 {
+    font-size: 20px !important;
+}
+
+.carousel-inner #shared-media p {
+    font-size: 12px !important;
+}
+
+}
